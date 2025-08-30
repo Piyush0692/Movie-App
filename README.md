@@ -55,9 +55,7 @@ Cloudflare Pages is a JAMstack platform that deploys static and full‑stack app
 
 
 ## Installation  
-```bash
-git clone https://github.com/Optimized-Brain/Cinecanvas.git  
-cd Cinecanvas  
+```bash 
 npm install  
 ```  
 
