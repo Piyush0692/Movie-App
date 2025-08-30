@@ -1,11 +1,11 @@
 
-<img src="./src/assets/CineCanvas_white_bg.png" alt="CineCanvas Logo"/> 
+<img src="./src/assets/logo.png" alt="UHD Movies Logo"/> 
 
 
 
 
 
-[**Cinecanvas**](https://cinecanvas.pages.dev/)
+[**UHD Movies**](https://movie-app-xi-jet.vercel.app/)
  is a fast, modern movie‑browsing web app built with Vite and React, styled using Tailwind CSS and shadcn/ui, integrated with TMDB and VidSrc APIs for metadata and streaming embeds, and deployed on Cloudflare Pages for global performance.
 <p align="center">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/> 
